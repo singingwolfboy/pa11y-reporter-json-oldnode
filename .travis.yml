@@ -1,4 +1,3 @@
-
 # Language/versions
 language: node_js
 node_js:
@@ -7,9 +6,3 @@ node_js:
 
 # Build script
 script: make ci
-
-# Notifications
-notifications:
-  email:
-    - j.robinson@nature.com
-    - rowan.manning@nature.com
